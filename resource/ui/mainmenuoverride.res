@@ -145,7 +145,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"0"
 			"use_proportional_insets" "1"
-			"font"			"Regular6"
+			"font"			"Novecento6"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -157,8 +157,12 @@
 			"border_armed"		""
 			"paintbackground"	"0"
 			
-			"image_drawcolor"	"157 81 27 255"
-			"image_armedcolor"	"White"
+			"defaultFgColor_override" "OmpText"
+			"armedFgColor_override" "35 219 247 255"
+			"depressedFgColor_override" "35 219 247 255"
+			
+			"image_drawcolor"	"235 226 202 255"
+			"image_armedcolor"	"235 226 202 255"
 			
 			"SubImage"
 			{
@@ -202,7 +206,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"0"
 			"use_proportional_insets" "1"
-			"font"			"Regular6"
+			"font"			"Novecento6"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -214,8 +218,12 @@
 			"border_armed"		""
 			"paintbackground"	"0"
 			
-			"image_drawcolor"	"157 81 27 255"
-			"image_armedcolor"	"White"
+			"defaultFgColor_override" "OmpText"
+			"armedFgColor_override" "35 219 247 255"
+			"depressedFgColor_override" "35 219 247 255"
+			
+			"image_drawcolor"	"235 226 202 255"
+			"image_armedcolor"	"235 226 202 255"
 			
 			"SubImage"
 			{
