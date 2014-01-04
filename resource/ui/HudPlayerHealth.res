@@ -4,10 +4,10 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"HealthBG"
-		"xpos"		"64"
+		"xpos"		"54"
 		"ypos"		"133"
 		"zpos"		"1"
-		"wide"		"106"
+		"wide"		"116"
 		"tall"		"45"
 		"autoResize"	"0"
 		"pinCorner"	"0"
@@ -208,7 +208,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"57"	
+		"xpos"			"47"	
 		"ypos"			"126" 	
 		"zpos"			"4"
 		"wide"			"0"		//76	

@@ -220,7 +220,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-		"font"			"Medium9"
+		"font"			"Medium8"
 		"xpos"			"c-150"
 		"ypos"			"r417"
 		"zpos"			"3"
@@ -260,7 +260,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinReasonLabel"
-		"font"			"Medium9"
+		"font"			"Medium8"
 		"xpos"			"c-150"
 		"ypos"			"r229"		//"r339"
 		"zpos"			"1"
@@ -280,7 +280,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"DetailsLabel"
-		"font"			"Medium9"
+		"font"			"Medium8"
 		"xpos"			"c-150"
 		"ypos"			"r340"
 		"zpos"			"1"

@@ -114,7 +114,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetDataLabel"
-		"font"			"Regular8"
+		"font"			"Regular7Shadow"
 		"xpos"			"5"			
 		"ypos"			"25"		// -3
 		"zpos"			"2"
@@ -168,10 +168,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"KillStreakIcon"
-		"xpos"			"34"
-		"xpos_minmode"	"30"
-		"ypos"			"21"
-		"ypos_minmode"	"19"
+		"xpos"			"2"
+		"ypos"			"29"
 		"zpos"			"12"
 		"wide"			"8"
 		"tall"			"8"

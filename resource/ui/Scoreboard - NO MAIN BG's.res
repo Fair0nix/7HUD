@@ -36,7 +36,7 @@
 		"fillcolor"		"HudBG"		//175
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 
 		if_mvm
@@ -60,7 +60,7 @@
 		"fillcolor"		"HudBG"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"		"0"
 		"visible_minmode"		"0"
 		"enabled"		"1"
 
