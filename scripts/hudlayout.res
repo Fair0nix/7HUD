@@ -656,7 +656,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c35"
-		"ypos"	"r80"
+		"ypos"	"r150"
 		"wide"	"200"
 		"tall"	"80"
 	}
@@ -704,7 +704,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"			"0"		//c-95
-		"ypos"			"70"		//"r164"	
+		"ypos"			"0"		//"r164"	
 		"wide"			"f0"		
 		"tall"			"600"		//100
 		"MeterFG"		"White"
