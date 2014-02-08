@@ -244,7 +244,7 @@
 			"ControlName"	"CBuildingHealthBar"
 			"fieldName"		"Health"
 			"font"			"Default"
-			"xpos"			"6"
+			"xpos"			"8"
 			"ypos"			"3"
 			"wide"			"5"
 			"tall"			"24"
