@@ -3957,7 +3957,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Book"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -3978,7 +3978,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Neutra Text SC"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -3988,7 +3988,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Neutra Text SC"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"6"
 				"additive"	"0"
 				"antialias" "1"
@@ -4328,6 +4328,17 @@ Scheme
 			{
 				"name"		"Marlett"
 				"tall"		"20"
+				"weight"	"0"
+				"symbol"	"1"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+		"MarlettSmall"
+		{
+			"1"
+			{
+				"name"		"Marlett"
+				"tall"		"14"
 				"weight"	"0"
 				"symbol"	"1"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -5226,21 +5237,21 @@ Scheme
 
 		ButtonBorder
 		{
-			"color" "Blank"
-			"offset" "0 0"
+			"inset" "0 0 0 0"
+			"backgroundtype" "2"
 		}
 
 		// this is the border used for default buttons (the button that gets pressed when you hit enter)
 		ButtonKeyFocusBorder
 		{
-			"color" "Green"
-			"offset" "0 0"
+			"inset" "0 0 0 0"
+			"backgroundtype" "2"
 		}
 
 		ButtonDepressedBorder
 		{
-			"color" "Blank"
-			"offset" "0 0"
+			"inset" "0 0 0 0"
+			"backgroundtype" "2"
 		}
 
 		ComboBoxBorder
